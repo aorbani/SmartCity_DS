@@ -4487,7 +4487,7 @@ Res3001,[Web]:teddunn,"Add rule id=5 type=SensorLeftOpen ,28,11,2017,13,23,803,2
 Res3001,[Web]:teddunn,"Execute rule type=SensorLeftOpen ,28,11,2017,13,23,803,0
 Res3001,Sensor 1,Medical Button BeClose Button Press,28,11,2017,13,27,807,4
 Res3001,Sensor 7,Chair Sensor Vacated,28,11,2017,13,28,808,1
-Res3001,QA 1 partition 1,"Sensor Alarm 44 secs - +18888250778 - SIA - SuccessfulView Detailed Information,28,11,2017,13,28,808,0
+Res3001,QA 1 partition 1,"Sensor Alarm 44 secs - +18888250778 - SIA - SuccessfulView DetailedInformation,28,11,2017,13,28,808,0
 Res3001,Sensor 7,Chair Sensor Occupied,28,11,2017,13,29,809,1
 Res3001,Sensor 5,Pat's Bedroom Motion Activated,28,11,2017,14,2,842,33
 Res3001,Sensor 7,Chair Sensor Vacated,28,11,2017,14,3,843,1
